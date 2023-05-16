@@ -1,0 +1,1 @@
+ALTER TABLE pacientes CHANGE documentoIdentidad documento_identidad VARCHAR(8);
